@@ -40,8 +40,8 @@ Voyager is an innovative travel planning application that leverages artificial i
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/voyager-travel-planner.git
-cd voyager-travel-planner
+git clone https://github.com/samikhalfi/Travel-Partner.git
+cd Travel-Partner
 ```
 
 ### 2. Install Dependencies
@@ -57,7 +57,7 @@ WEATHER_API_KEY = "your_openweathermap_api_key"
 
 ### 4. Launch the Application
 ```bash
-streamlit run app.py
+streamlit run main_app.py
 ```
 
 ### 5. Access the Application
@@ -99,8 +99,8 @@ pip install -r requirements.txt
 ## 📜 License
 MIT License
 
-**Author**: Your Name  
-**GitHub**: YourGitHubProfile
+**Author**: Sami Khalfi 
+**GitHub**: https://github.com/samikhalfi
 
 ---
 
