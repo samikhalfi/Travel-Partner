@@ -1,0 +1,33 @@
+# Ignore the .env file (stores sensitive API keys)
+.env
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore IDE settings (example for VSCode and PyCharm)
+.vscode/
+.idea/
+
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore dependency cache
+*.egg-info/
+pip-wheel-metadata/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db

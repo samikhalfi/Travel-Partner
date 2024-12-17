@@ -1,0 +1,11 @@
+chromadb==0.5.23
+fpdf==1.7.2
+litellm==1.55.3
+pandas==2.2.3
+plotly==5.24.1
+python-dotenv==1.0.1
+Requests==2.32.3
+sentence_transformers==3.3.1
+spacy==3.8.3
+streamlit==1.41.1
+textblob==0.18.0.post0
